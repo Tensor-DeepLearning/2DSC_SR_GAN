@@ -10,5 +10,5 @@ References:
     arXiv preprint arXiv:1703.09690, 2017.
    
 [3] Ledig, Christian, Lucas Theis, Ferenc Huszár, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken et al. 
-    "Photo-realistic single image super-resolution using a generative adversarial network." 
+    Photo-realistic single image super-resolution using a generative adversarial network. 
     arXiv preprint arXiv:1609.04802 (2016).
