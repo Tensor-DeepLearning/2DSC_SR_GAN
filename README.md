@@ -2,7 +2,7 @@
 References: 
 
 [1] Jiang, Fei, Xiao-Yang Liu, Hongtao Lu, and Ruimin Shen. 
-    "Graph regularized tensor sparse coding for image representation." 
+    Graph regularized tensor sparse coding for image representation. 
     IEEE ICME 2017.
     
 [2] Fei Jiang, Xiao-Yang Liu, Hongtao Lu, Ruimin Shen.
