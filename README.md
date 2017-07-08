@@ -1,5 +1,6 @@
 # 2DSC_SR_GAN
 References: 
+%%%%%
 [1] Jiang, Fei, Xiao-Yang Liu, Hongtao Lu, and Ruimin Shen. 
     "Graph regularized tensor sparse coding for image representation." 
     IEEE ICME 2017.
